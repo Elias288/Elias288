@@ -24,16 +24,18 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
   <img title="MongoDB" alt="MongoDB" src="./assets/mongodb-svgrepo-com.svg" style="height: 80px; width: 80px;" />
 </div>
 
-### Framworks
+### Frameworks
 
-  - Nodejs
-  - ReactJs
-  - AngularJs
-
-  - Astro
-  - NextJs
+<div style="display:flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
+  <img title="ReactJs" alt="ReactJs" src="./assets/react-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+  <img title="AngularJs" alt="AngularJs" src="./assets/angular-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+  <img title="Astro" alt="Astro" src="./assets/astro-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+  <img title="NextJs" alt="NextJs" src="./assets/nextjs-icon.png" style="height: 80px; width: 80px;" />
+  <img title="NestJs" alt="NestJs" src="./assets/nestjs-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+</div>
 
 ### Tecnologías
+
   - Git/Github
   - Podman/Docker
   - VIM
