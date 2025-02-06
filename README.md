@@ -36,10 +36,15 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
 
 ### Tecnologías
 
-  - Git/Github
-  - Podman/Docker
-  - VIM
-  - Visual studio code
+<div style="display:flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
+    <img title="Git" alt="Git" src="./assets/git-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <img title="GitHub" alt="GitHub" src="./assets/github-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <img title="GitLab" alt="GitLab" src="./assets/gitlab-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <img title="Podman/Docker" alt="Podman" src="./assets/Podman.svg" style="height: 80px; width: 80px;" />
+    <img title="VIM" alt="VIM" src="./assets/vim-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <img title="Docker" alt="Docker" src="./assets/docker-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <img title="Visual studio code" alt="Visual studio code" src="./assets/vscode-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+</div>
 
 ## Contacto
 
