@@ -55,6 +55,11 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
   </figure>
 
   <figure style="text-align: center;">
+    <img title="CSS" alt="CSS" src="./assets/css-3-svgrepo-com.svg" style="height: 80px; width: 80px;"/>
+    <figcaption>CSS</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
     <img title="Java" alt="Java" src="./assets/java-logo-svgrepo-com.svg" style="height: 80px; width: 80px;" />
     <figcaption>Java</figcaption>
   </figure>
@@ -105,6 +110,16 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
     <figcaption>NestJs</figcaption>
   </figure>
 
+  <figure style="text-align: center;">
+    <img title="Dart" alt="Dart" src="./assets/dart-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <figcaption>Dart</figcaption>
+  </figure>
+
+  <figure style="text-align: center;">
+    <img title="Android" alt="Android" src="./assets/android-color-svgrepo-com.svg" style="height: 80px; width: 80px;" />
+    <figcaption>Android</figcaption>
+  </figure>
+
 </div>
 
 ### Tecnologías
@@ -138,11 +153,6 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
   <figure style="text-align: center;">
     <img title="Docker" alt="Docker" src="./assets/docker-svgrepo-com.svg" style="height: 80px; width: 80px;" />
     <figcaption>Docker</figcaption>
-  </figure>
-
-  <figure style="text-align: center;">
-        <img title="Visual studio code" alt="Visual studio code" src="./assets/vscode-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-        <figcaption>Visual</figcaption>
   </figure>
 
 </div>
