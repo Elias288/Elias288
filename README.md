@@ -8,47 +8,39 @@ Actualmente estoy trabajando como consultor en FrameBanking en el sector bancari
 
 ### Lenguajes
 
-<div style="display:flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-    <img title="NodeJs" alt="NodeJs" src="./assets/nodejs-svgrepo-com.svg" style="height: 80px; width: 80px;"/>
-    <img title="LUA" alt="LUA" src="./assets/lua-svgrepo-com.svg" style="height: 80px; width: 80px;"/>
-    <img title="C++" alt="C++" src="./assets/c-plus-plus-4096-54310411.png" style="height: 80px; width: 80px;"/>
-    <img title="C" alt="C" src="./assets/letter_c_PNG22.png" style="height: 80px; width: 80px;"/>
-    <img title="HTML" alt="HTML" src="./assets/html-5-svgrepo-com.svg" style="height: 80px; width: 80px;"/>
-    <img title="CSS" alt="CSS" src="./assets/css-3-svgrepo-com.svg" style="height: 80px; width: 80px;"/>
-    <img title="Java" alt="Java" src="./assets/java-logo-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="BashScript" alt="BashScript" src="./assets/bash-icon-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Python" alt="Python" src="./assets/python-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="MongoDB" alt="MongoDB" src="./assets/mongodb-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-</div>
+![Static Badge](https://img.shields.io/badge/NodeJs-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/LUA-03047a?style=for-the-badge&logo=lua&logoSize=amg)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-699bcf?style=for-the-badge&logo=cplusplus&logoSize=amg)
+![Static Badge](https://img.shields.io/badge/C-5d6cbd?style=for-the-badge&logo=c&logoSize=amg&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/HTML-%23E34F26?style=for-the-badge&logo=html5&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css)
+![Static Badge](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Static Badge](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnubash&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/java-da6921?style=for-the-badge)
 
 ### Frameworks
 
-<div style="display:flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-    <img title="ReactJs" alt="ReactJs" src="./assets/react-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="AngularJs" alt="AngularJs" src="./assets/angular-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Astro" alt="Astro" src="./assets/astro-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="NextJs" alt="NextJs" src="./assets/nextjs-icon.png" style="height: 80px; width: 80px;" />
-    <img title="NestJs" alt="NestJs" src="./assets/nestjs-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Dart" alt="Dart" src="./assets/dart-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Android" alt="Android" src="./assets/android-color-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-</div>
+![Static Badge](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![Static Badge](https://img.shields.io/badge/angular-0F0F11?style=for-the-badge&logo=angular)
+![Static Badge](https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=fff)
 
 ### Tecnologías
 
-<div style="display:flex; flex-direction: row; gap: 10px; flex-wrap: wrap;">
-    <img title="Git" alt="Git" src="./assets/git-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="GitHub" alt="GitHub" src="./assets/github-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="GitLab" alt="GitLab" src="./assets/gitlab-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Podman/Docker" alt="Podman" src="./assets/Podman.svg" style="height: 80px; width: 80px;" />
-    <img title="VIM" alt="VIM" src="./assets/vim-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-    <img title="Docker" alt="Docker" src="./assets/docker-svgrepo-com.svg" style="height: 80px; width: 80px;" />
-</div>
-
+![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/gitlab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/podman-892CA0?style=for-the-badge&logo=podman&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/vim-019733?style=for-the-badge&logo=vim&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ## Contacto
 
-- [Email](mailto:bianchi.elias@gmail.com)
-- [Codepen](https://codepen.io/sbianchi)
-- [GitLab](https://gitlab.com/bianchi.elias)
-- [CodePen](https://codepen.io/sbianchi)
-
+- [![Static Badge](https://img.shields.io/badge/bianchi.elias%40gmail.com-Email-EA4335?style=for-the-badge&logo=mailboxdotorg)](mailto:bianchi.elias@gmail.com)
+- [![Static Badge](https://img.shields.io/badge/sbianchi-codepen-000?style=for-the-badge&logo=codepen)](https://codepen.io/sbianchi)
+- [![Static Badge](https://img.shields.io/badge/bianchi.elias-gitlab-FC6D26?style=for-the-badge&logo=gitlab)](https://gitlab.com/bianchi.elias)
